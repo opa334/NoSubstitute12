@@ -1,0 +1,11 @@
+Package: com.opa334.nosubstitute12
+Name: NoSubstitute12
+Depends: mobilesubstrate, applist
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable Substitute on a per app basis!
+Depiction: https://opa334.github.io/depic/NoSubstitute12/index.html
+Homepage: https://opa334.github.io/
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
